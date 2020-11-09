@@ -1,4 +1,7 @@
 ﻿using System;
+using System.Diagnostics;
+using System.Runtime.CompilerServices;
+using System.Xml;
 
 namespace Zork
 {
@@ -15,40 +18,44 @@ namespace Zork
                 Console.Write("> ");
                 command = ToCommand(Console.ReadLine().Trim());
 
-                /*switch (command)
+                string outputString;
+                switch (command)
                 {
-                
-                    case "QUIT":
-                        command = Commands.QUIT;
+
+
+
+                    case Commands.QUIT:
+                        outputString = ("Thank you for playing!");
                         break;
 
-                    case "LOOK":
-                        command = Commands.LOOK;
+                    case Commands.LOOK:
+                        outputString = ("This is an open field west of a white house, with a boarded front door. A rubber mat saying 'Welcome to Zork!' lies by the door.");
                         break;
 
-                    case "NORTH":
-                        command = Commands.NORTH;
+                    case Commands.NORTH:
+                        outputString = ("You moved north");
                         break;
 
-                    case "SOUTH":
-                        command = Commands.SOUTH;
+                    case Commands.SOUTH:
+                        outputString = ("You moved south.");
                         break;
 
-                    case "EAST":
-                        command = Commands.EAST;
+                    case Commands.EAST:
+                        outputString = ("You moved east.");
                         break;
 
-                    case "WEST":
-                        command = Commands.WEST;
+                    case Commands.WEST:
+                        outputString = ("You moved west.");
                         break;
 
                     default:
-                        command = Commands.UNKNOWN;
+                        outputString = ("Unknown command.");
                         break;
-                
 
-                };*/
 
+                };
+
+                Console.WriteLine(outputString);
 
             }
 
