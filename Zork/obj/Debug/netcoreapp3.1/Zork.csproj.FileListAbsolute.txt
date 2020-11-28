@@ -7,7 +7,7 @@ M:\Nick\Documents\GitHub Desktop Repos\Zork\Zork\bin\Debug\netcoreapp3.1\Zork.pd
 M:\Nick\Documents\GitHub Desktop Repos\Zork\Zork\obj\Debug\netcoreapp3.1\Zork.csprojAssemblyReference.cache
 M:\Nick\Documents\GitHub Desktop Repos\Zork\Zork\obj\Debug\netcoreapp3.1\Zork.AssemblyInfoInputs.cache
 M:\Nick\Documents\GitHub Desktop Repos\Zork\Zork\obj\Debug\netcoreapp3.1\Zork.AssemblyInfo.cs
-M:\Nick\Documents\GitHub Desktop Repos\Zork\Zork\obj\Debug\netcoreapp3.1\Zork.csproj.CoreCompileInputs.cache
 M:\Nick\Documents\GitHub Desktop Repos\Zork\Zork\obj\Debug\netcoreapp3.1\Zork.dll
 M:\Nick\Documents\GitHub Desktop Repos\Zork\Zork\obj\Debug\netcoreapp3.1\Zork.pdb
 M:\Nick\Documents\GitHub Desktop Repos\Zork\Zork\obj\Debug\netcoreapp3.1\Zork.genruntimeconfig.cache
+M:\Nick\Documents\GitHub Desktop Repos\Zork\Zork\bin\Debug\netcoreapp3.1\Rooms.txt
