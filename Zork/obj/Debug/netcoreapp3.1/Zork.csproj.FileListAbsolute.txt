@@ -10,4 +10,7 @@ M:\Nick\Documents\GitHub Desktop Repos\Zork\Zork\obj\Debug\netcoreapp3.1\Zork.As
 M:\Nick\Documents\GitHub Desktop Repos\Zork\Zork\obj\Debug\netcoreapp3.1\Zork.dll
 M:\Nick\Documents\GitHub Desktop Repos\Zork\Zork\obj\Debug\netcoreapp3.1\Zork.pdb
 M:\Nick\Documents\GitHub Desktop Repos\Zork\Zork\obj\Debug\netcoreapp3.1\Zork.genruntimeconfig.cache
-M:\Nick\Documents\GitHub Desktop Repos\Zork\Zork\bin\Debug\netcoreapp3.1\Rooms.txt
+M:\Nick\Documents\GitHub Desktop Repos\Zork\Zork\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+M:\Nick\Documents\GitHub Desktop Repos\Zork\Zork\obj\Debug\netcoreapp3.1\Zork.csproj.CoreCompileInputs.cache
+M:\Nick\Documents\GitHub Desktop Repos\Zork\Zork\obj\Debug\netcoreapp3.1\Zork.csproj.CopyComplete
+M:\Nick\Documents\GitHub Desktop Repos\Zork\Zork\bin\Debug\netcoreapp3.1\Zork.json
