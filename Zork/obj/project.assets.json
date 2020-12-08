@@ -10,6 +10,16 @@
         "runtime": {
           "lib/netstandard2.0/Newtonsoft.Json.dll": {}
         }
+      },
+      "Zork.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Zork.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Zork.Common.dll": {}
+        }
       }
     }
   },
@@ -44,11 +54,17 @@
         "newtonsoft.json.nuspec",
         "packageIcon.png"
       ]
+    },
+    "Zork.Common/1.0.0": {
+      "type": "project",
+      "path": "../Zork.Common/Zork.Common.csproj",
+      "msbuildProject": "../Zork.Common/Zork.Common.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "Newtonsoft.Json >= 12.0.3"
+      "Newtonsoft.Json >= 12.0.3",
+      "Zork.Common >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -57,9 +73,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "M:\\Nick\\Documents\\GitHub Desktop Repos\\Zork\\Zork\\Zork.csproj",
-      "projectName": "Zork",
-      "projectPath": "M:\\Nick\\Documents\\GitHub Desktop Repos\\Zork\\Zork\\Zork.csproj",
+      "projectUniqueName": "M:\\Nick\\Documents\\GitHub Desktop Repos\\Zork\\Zork\\Zork.Console.csproj",
+      "projectName": "Zork.Console",
+      "projectPath": "M:\\Nick\\Documents\\GitHub Desktop Repos\\Zork\\Zork\\Zork.Console.csproj",
       "packagesPath": "C:\\Users\\Nick\\.nuget\\packages\\",
       "outputPath": "M:\\Nick\\Documents\\GitHub Desktop Repos\\Zork\\Zork\\obj\\",
       "projectStyle": "PackageReference",
@@ -76,7 +92,11 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "M:\\Nick\\Documents\\GitHub Desktop Repos\\Zork\\Zork.Common\\Zork.Common.csproj": {
+              "projectPath": "M:\\Nick\\Documents\\GitHub Desktop Repos\\Zork\\Zork.Common\\Zork.Common.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
