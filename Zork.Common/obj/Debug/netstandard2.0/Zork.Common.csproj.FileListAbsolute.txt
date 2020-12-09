@@ -1,9 +1,10 @@
-M:\Nick\Documents\GitHub Desktop Repos\Zork\Zork.Common\bin\Debug\netstandard2.0\Zork.Common.deps.json
-M:\Nick\Documents\GitHub Desktop Repos\Zork\Zork.Common\bin\Debug\netstandard2.0\Zork.Common.dll
-M:\Nick\Documents\GitHub Desktop Repos\Zork\Zork.Common\bin\Debug\netstandard2.0\Zork.Common.pdb
-M:\Nick\Documents\GitHub Desktop Repos\Zork\Zork.Common\obj\Debug\netstandard2.0\Zork.Common.csprojAssemblyReference.cache
+M:\Nick\Documents\GitHub Desktop Repos\Zork\Zork.Unity\Assets\netstandard2.0\Zork.Common.deps.json
+M:\Nick\Documents\GitHub Desktop Repos\Zork\Zork.Unity\Assets\netstandard2.0\Zork.Common.dll
+M:\Nick\Documents\GitHub Desktop Repos\Zork\Zork.Unity\Assets\netstandard2.0\Zork.Common.pdb
 M:\Nick\Documents\GitHub Desktop Repos\Zork\Zork.Common\obj\Debug\netstandard2.0\Zork.Common.AssemblyInfoInputs.cache
 M:\Nick\Documents\GitHub Desktop Repos\Zork\Zork.Common\obj\Debug\netstandard2.0\Zork.Common.AssemblyInfo.cs
 M:\Nick\Documents\GitHub Desktop Repos\Zork\Zork.Common\obj\Debug\netstandard2.0\Zork.Common.csproj.CoreCompileInputs.cache
+M:\Nick\Documents\GitHub Desktop Repos\Zork\Zork.Common\obj\Debug\netstandard2.0\Zork.Common.csproj.Fody.CopyLocal.cache
 M:\Nick\Documents\GitHub Desktop Repos\Zork\Zork.Common\obj\Debug\netstandard2.0\Zork.Common.dll
 M:\Nick\Documents\GitHub Desktop Repos\Zork\Zork.Common\obj\Debug\netstandard2.0\Zork.Common.pdb
+M:\Nick\Documents\GitHub Desktop Repos\Zork\Zork.Common\obj\Debug\netstandard2.0\Zork.Common.csprojAssemblyReference.cache

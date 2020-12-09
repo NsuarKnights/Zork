@@ -268,6 +268,9 @@
     <Reference Include="UnityEditor">
       <HintPath>M:/Program Files/Unity Versions Here/2019.4.11f1/Editor/Data/Managed/UnityEditor.dll</HintPath>
     </Reference>
+    <Reference Include="Zork.Common">
+      <HintPath>M:/Nick/Documents/GitHub Desktop Repos/Zork/Zork.Unity/Assets/netstandard2.0/Zork.Common.dll</HintPath>
+    </Reference>
     <Reference Include="UnityEditor.iOS.Extensions.Xcode">
       <HintPath>M:/Program Files/Unity Versions Here/2019.4.11f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
     </Reference>
